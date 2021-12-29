@@ -52,7 +52,7 @@ about_content: | # this will include new lines to allow paragraphs
   
   <i class="fas fa-user-astronaut"></i> Skills: <mark>Linux</mark>, <mark>PenTest</mark>, <mark>Support Engineer</mark>, <mark>Cisco IOS</mark>, <mark>Embedded Systems</mark>
   
-  ![alt text](/images/All_v1.PNG "CR")
+  ![alt text](/images/All_v1.png "CR")
 
 
 content:
